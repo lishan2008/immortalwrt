@@ -290,7 +290,7 @@
 
 			partition@580000 {
 				label = "ubi";
-				reg = <0x0580000 0x1ae00000>;
+				reg = <0x0580000 0x1ea00000>;
 				compatible = "linux,ubi";
 
 				volumes {
